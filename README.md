@@ -1,5 +1,4 @@
-# ChromeExportHistory
-Exportar historial de Google Chrome en MacOs
+# Exportar historial de Google Chrome en MacOs
 
 ## En la terminal escribir:
 
