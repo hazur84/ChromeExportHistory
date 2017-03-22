@@ -3,9 +3,9 @@ Exportar historial de Google Chrome en MacOs
 
 ##En la terminal escribir:
 
-cd /Library/Application Support/Google/Chrome/Default
+`cd /Library/Application Support/Google/Chrome/Default`
 
-Make a copy of a file into the same directory: 
+Realizar una copia del archivo History en el mismo directorio 
 
 `cp History History2`
 
