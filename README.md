@@ -4,7 +4,7 @@
 
 `cd /Library/Application Support/Google/Chrome/Default`
 
-Realizar una copia del archivo History en el mismo directorio 
+Realizar una copia del archivo History en el mismo directorio [^1]
 
 `cp History History2`
 
@@ -14,3 +14,4 @@ Realizar una copia del archivo History en el mismo directorio
 
 ## Abrir Excel e importar archive history_export, seleccionar | como comodín para separar celdas.
 
+[^1]: http://www.computerhope.com/unix/ucp.htm (21/mar/17)
